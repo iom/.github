@@ -9,7 +9,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# Welcome to the IOM Open Source Projects
+# Welcome to IOM Open Source Projects
 
 ## About IOM
 
@@ -30,17 +30,20 @@ Open source projects serve as educational resources for those interested in data
 
 We welcome contributions from anyone interested in our mission. Here’s how you can get involved:
 
-1. **Fork the Repository**: Start by forking our repository to your GitHub account.
-2. **Clone the Repository**: Clone the forked repository to your local machine.
+1. **Fork any Repository**: Start by forking our repository to your GitHub account.
+2. **Clone the selected Repository**: Clone the forked repository to your local machine.
 3. **Create a Branch**: Create a new branch for your feature or bug fix.
 4. **Make Changes**: Implement your changes and commit them with clear, descriptive messages.
 5. **Submit a Pull Request**: Push your changes to your forked repository and submit a pull request to our main repository.
 
 We review all pull requests and provide feedback to ensure high-quality contributions. For more detailed guidelines, please refer to our Contribution Guide.
 
+Alternatively you may also submit an [issue here](https://github.com/iom/.github/issues/new/choose) to submit any specific project that could be of interest to IOM
+
+
 ## Contact Us
 
-If you have any questions or need further assistance, feel free to open an issue or contact us at email@example.com.
+If you have any questions or need further assistance, feel free to open an [issue here](https://github.com/iom/.github/issues/new/choose).
 
 Thank you for your interest in IOM’s open source projects. Together, we can make a difference!
 
